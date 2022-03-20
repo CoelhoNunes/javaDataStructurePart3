@@ -2,14 +2,7 @@
 Purpose/Description: the created method is going to replace the first occurrence of oldKey with
 the newKey, and restore Min-Heap (Heap) property after the change. If the oldKey does not exist,
 program will printout statement without changing the heap. 
-
-Author’s Panther ID: 6194506
-
-Certification:
-I hereby certify that this work is my own and none of it is the work of any other person.
 *******************************************************************************************/
-
-
 
 package dataStructure_A3;
 
